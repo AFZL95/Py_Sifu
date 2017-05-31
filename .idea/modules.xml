@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/My_Implementations.iml" filepath="$PROJECT_DIR$/.idea/My_Implementations.iml" />
+      <module fileurl="file://C:\Users\FZL\Desktop\Py_Sifu\.idea\My_Implementations.iml" filepath="C:\Users\FZL\Desktop\Py_Sifu\.idea\My_Implementations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Py_Sifu.iml" filepath="$PROJECT_DIR$/.idea/Py_Sifu.iml" />
     </modules>
   </component>
 </project>
