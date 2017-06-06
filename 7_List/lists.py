@@ -1,0 +1,43 @@
+'''
+python provides three built in sequence types:
+1- List
+2- Range
+3- Tuple
+'''
+#an Old method example
+
+ipAddress = input("Please enter an IP address: ")
+# calculate the number of the Ip Sections
+ip_Count = ipAddress.count(".")+1
+if ip_Count == 4 :
+    print("You entered Ip Address correctly and it is : {0}".format(ipAddress))
+else: print("that ip you have entered is incorrect!")
+
+# what is the list actually?
+parrot_list = ["non pinin'", "no more", "a stiff", "bereft of live"]
+# appending something to the end of the list
+parrot_list.append("A Norwegian Blue")
+
+for state in parrot_list:
+    print("This parrot is " + state)
+
+
+#some other example
+even = [2, 4, 6, 8]
+odd = [1, 3, 5, 7, 9]
+
+numbers = even + odd
+# print(numbers)  # it appends the odd numbers in the end of even number's list
+numbers_in_order = sorted(numbers)
+
+print(numbers_in_order)
+
+if numbers == numbers_in_order:
+    print("The lists are equal")
+else:
+    print("The lists are not equal")
+
+if numbers_in_order == sorted(numbers):
+    print("The lists are equal")
+else:
+    print("The lists are not equal")
