@@ -1,0 +1,7 @@
+So now's actually a good time in the course to actually discuss a very important feature of Python.
+And that's actually iterators and iterable objects.
+An iterator is an object that represents a stream of a data.
+So it actually returns the stream, or the actual data in the stream, one element at a time.
+any object that supports iteration is called iterable,
+and we've actually seen two iterable objects already so far from now on,
+and that's strings and lists.

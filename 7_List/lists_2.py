@@ -9,7 +9,7 @@ if list_1 == list_2:
     print("The lists are equal")
 
 # second scenario
-# create a list and put every charactor of the string below in it
+# create a list and put every character of the string below in it
 print(list("The lists are equal"))
 
 # third scenario
