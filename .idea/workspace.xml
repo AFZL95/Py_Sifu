@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd51c00c-6181-49da-9de6-64dbd30b4061" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_1.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_1/OOP_1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_2.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_2/OOP_2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_3.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_3/OOP_3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_5.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_5/OOP_5.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -212,6 +215,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FZL\Desktop\Py_Sifu\4.1_Object Oriented Programming\OOP_5" />
+      <recent name="C:\Users\FZL\Desktop\Py_Sifu\4.1_Object Oriented Programming\OOP_3" />
+      <recent name="C:\Users\FZL\Desktop\Py_Sifu\4.1_Object Oriented Programming\OOP_2" />
+      <recent name="C:\Users\FZL\Desktop\Py_Sifu\4.1_Object Oriented Programming\OOP_1" />
       <recent name="D:\Watch &amp; Learn\Python\Master Class\Py_Sifu\Introduction &amp; Strings" />
     </key>
   </component>
@@ -769,7 +776,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_1.py">
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_1/OOP_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="20" />
@@ -777,7 +784,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_2.py">
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_2/OOP_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1100">
           <caret line="50" column="22" lean-forward="false" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
@@ -785,7 +792,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_3.py">
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_3/OOP_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
           <caret line="19" column="80" lean-forward="false" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
@@ -815,7 +822,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_5.py">
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_5/OOP_5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-275">
           <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
