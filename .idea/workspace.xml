@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd51c00c-6181-49da-9de6-64dbd30b4061" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_1.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_1/OOP_1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_2.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_2/OOP_2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_3.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_3/OOP_3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_5.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_5/OOP_5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/enemy.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/enemy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,6 +42,7 @@
     <SUITE FILE_PATH="coverage/Py_Sifu$Extending_For_Loops.coverage" NAME="Extending For Loops Coverage Results" MODIFIED="1496215821718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_For Loops" />
     <SUITE FILE_PATH="coverage/Py_Sifu$OOP_3.coverage" NAME="OOP_3 Coverage Results" MODIFIED="1500706779398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Range_2.coverage" NAME="Range_2 Coverage Results" MODIFIED="1497264362093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_Range" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1500807082007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Function.coverage" NAME="Function Coverage Results" MODIFIED="1500387150175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.5_Functions" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Answer.coverage" NAME="Answer Coverage Results" MODIFIED="1496225040894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_Program Flow (O_O)/Program Flow Challenge" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Augmented_Assignment.coverage" NAME="Augmented Assignment Coverage Results" MODIFIED="1496223984202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Augmented Assignment" />
@@ -76,7 +75,28 @@
     <favorites_list name="Py_Sifu" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enemy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/enemy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,9 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/9_Range/Range.py" />
-        <option value="$PROJECT_DIR$/9_Range/Range_2.py" />
-        <option value="$PROJECT_DIR$/9_Range (O_O)/Range Challenge.txt" />
         <option value="$PROJECT_DIR$/10_Tuples/Tuple.py" />
         <option value="$PROJECT_DIR$/10_Tuples/Tuple_2.py" />
         <option value="$PROJECT_DIR$/11_Dictionaries/Dictionary_!.py" />
@@ -143,6 +160,9 @@
         <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_7_game/main.py" />
         <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_7_game/player.py" />
         <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_9_Overloading/main.py" />
+        <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/enemy.py" />
+        <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py" />
+        <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/player.py" />
       </list>
     </option>
   </component>
@@ -234,26 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration default="false" name="SS_3_Doc-Strings-continued" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.1_Supplementary Stuff" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Py_Sifu" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.1_Supplementary Stuff/SS_3_Doc-Strings-continued.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.main (3)">
     <configuration default="false" name="OOP_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,6 +326,25 @@
       <module name="Py_Sifu" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_9_Overloading/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Py_Sifu" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -480,19 +500,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SS_3_Doc-Strings-continued" />
-      <item index="1" class="java.lang.String" itemvalue="Python.OOP_4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.OOP_4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main" />
-        <item index="3" class="java.lang.String" itemvalue="Python.OOP_4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SS_3_Doc-Strings-continued" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main" />
+        <item index="4" class="java.lang.String" itemvalue="Python.OOP_4" />
       </list>
     </recent_temporary>
   </component>
@@ -562,15 +582,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7_List/lists.py" />
-    <entry file="file://$PROJECT_DIR$/12_Sets (O_O)/Sets Challenge.py" />
-    <entry file="file://$PROJECT_DIR$/3.1_Input &amp; Output/sample.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.1_Input &amp; Output/IO_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1131">
@@ -922,6 +933,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
