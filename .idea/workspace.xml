@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd51c00c-6181-49da-9de6-64dbd30b4061" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/enemy.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/enemy.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py" afterPath="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py" />
-    </list>
+    <list default="true" id="fd51c00c-6181-49da-9de6-64dbd30b4061" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,51 +10,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Py_Sifu$Iterator.coverage" NAME="Iterator Coverage Results" MODIFIED="1497262171801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_Iterators" />
     <SUITE FILE_PATH="coverage/Py_Sifu$SS_2_Raw_Strings.coverage" NAME="SS_2_Raw-Strings Coverage Results" MODIFIED="1500708180228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.1_Supplementary Stuff" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$OOP_12_2.coverage" NAME="OOP_12_2 Coverage Results" MODIFIED="1500813833301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition" />
     <SUITE FILE_PATH="coverage/Py_Sifu$main.coverage" NAME="main Coverage Results" MODIFIED="1500736102034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_6_Game" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$Function_4.coverage" NAME="Function_4 Coverage Results" MODIFIED="1500445236771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.5_Functions" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$OOP_2.coverage" NAME="OOP_2 Coverage Results" MODIFIED="1500703013412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming" />
     <SUITE FILE_PATH="coverage/Py_Sifu$For_Loops.coverage" NAME="For Loops Coverage Results" MODIFIED="1496171614274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_For Loops" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Dictionary_3.coverage" NAME="Dictionary_3 Coverage Results" MODIFIED="1497284046265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Dictionaries" />
     <SUITE FILE_PATH="coverage/Py_Sifu$tkinter_3.coverage" NAME="tkinter_3 Coverage Results" MODIFIED="1500386267626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.3_tkinter" />
     <SUITE FILE_PATH="coverage/Py_Sifu$IO_5.coverage" NAME="IO_5 Coverage Results" MODIFIED="1498198969797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.1_Input &amp; Output" />
     <SUITE FILE_PATH="coverage/Py_Sifu$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1500795972318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_7_game" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$IO_6.coverage" NAME="IO_6 Coverage Results" MODIFIED="1498199539238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.1_Input &amp; Output" />
     <SUITE FILE_PATH="coverage/Py_Sifu$M_F_1.coverage" NAME="M&amp;F_1 Coverage Results" MODIFIED="1498230482859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.2_Modules &amp; Functions" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Sets_Challenge.coverage" NAME="Sets Challenge Coverage Results" MODIFIED="1497517980776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_Sets (O_O)" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$tkinter_2.coverage" NAME="tkinter_2 Coverage Results" MODIFIED="1500313354668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.3_tkinter" />
     <SUITE FILE_PATH="coverage/Py_Sifu$lists.coverage" NAME="lists Coverage Results" MODIFIED="1496771609007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_List" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$Range.coverage" NAME="Range Coverage Results" MODIFIED="1497263803004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_Range" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$Tuple_2.coverage" NAME="Tuple_2 Coverage Results" MODIFIED="1497265974957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Tuples" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$Dictionary_2.coverage" NAME="Dictionary_2 Coverage Results" MODIFIED="1497283168843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Dictionaries" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Challenge.coverage" NAME="Challenge Coverage Results" MODIFIED="1497683397709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.1_Input &amp; Output" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Continue_Break.coverage" NAME="Continue Break Coverage Results" MODIFIED="1496216417435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_For Loops" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$String_Formating.coverage" NAME="String Formating Coverage Results" MODIFIED="1496169825498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction &amp; Strings" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Function_3.coverage" NAME="Function_3 Coverage Results" MODIFIED="1500444269163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.5_Functions" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Set.coverage" NAME="Set Coverage Results" MODIFIED="1497517123548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_Sets" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$IO_1.coverage" NAME="IO_1 Coverage Results" MODIFIED="1497681722109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.1_Input &amp; Output" />
     <SUITE FILE_PATH="coverage/Py_Sifu$M_F_2.coverage" NAME="M&amp;F_2 Coverage Results" MODIFIED="1498231046402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.2_Modules &amp; Functions" />
     <SUITE FILE_PATH="coverage/Py_Sifu$tkinter_challenge_answer.coverage" NAME="tkinter challenge answer Coverage Results" MODIFIED="1500386534113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.4_tkinter challenge (O_O)/tkinter challenge" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Extending_For_Loops.coverage" NAME="Extending For Loops Coverage Results" MODIFIED="1496215821718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_For Loops" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$OOP_3.coverage" NAME="OOP_3 Coverage Results" MODIFIED="1500706779398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Range_2.coverage" NAME="Range_2 Coverage Results" MODIFIED="1497264362093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_Range" />
     <SUITE FILE_PATH="coverage/Py_Sifu$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1500807082007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$Function.coverage" NAME="Function Coverage Results" MODIFIED="1500387150175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.5_Functions" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Answer.coverage" NAME="Answer Coverage Results" MODIFIED="1496225040894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_Program Flow (O_O)/Program Flow Challenge" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Augmented_Assignment.coverage" NAME="Augmented Assignment Coverage Results" MODIFIED="1496223984202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Augmented Assignment" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$OOP_12_1.coverage" NAME="OOP_12_1 Coverage Results" MODIFIED="1500813427597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Function_2.coverage" NAME="Function_2 Coverage Results" MODIFIED="1500443802609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.5_Functions" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$tkinter_1.coverage" NAME="tkinter_1 Coverage Results" MODIFIED="1499699461278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.3_tkinter" />
     <SUITE FILE_PATH="coverage/Py_Sifu$SS_3_Doc_Strings_continued.coverage" NAME="SS_3_Doc-Strings-continued Coverage Results" MODIFIED="1500708941436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.1_Supplementary Stuff" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$OOP_1.coverage" NAME="OOP_1 Coverage Results" MODIFIED="1500657412946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$Question.coverage" NAME="Question Coverage Results" MODIFIED="1496170911387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/If Statement" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$Dictionsry_4.coverage" NAME="Dictionsry_4 Coverage Results" MODIFIED="1497285101016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Dictionaries" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$Iterator.coverage" NAME="Iterator Coverage Results" MODIFIED="1497262171801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_Iterators" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$Function_4.coverage" NAME="Function_4 Coverage Results" MODIFIED="1500445236771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.5_Functions" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$OOP_2.coverage" NAME="OOP_2 Coverage Results" MODIFIED="1500703013412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$IO_6.coverage" NAME="IO_6 Coverage Results" MODIFIED="1498199539238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.1_Input &amp; Output" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$tkinter_2.coverage" NAME="tkinter_2 Coverage Results" MODIFIED="1500313354668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.3_tkinter" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$Range.coverage" NAME="Range Coverage Results" MODIFIED="1497263803004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_Range" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$Tuple_2.coverage" NAME="Tuple_2 Coverage Results" MODIFIED="1497265974957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Tuples" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$Dictionary_2.coverage" NAME="Dictionary_2 Coverage Results" MODIFIED="1497283168843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Dictionaries" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$String_Formating.coverage" NAME="String Formating Coverage Results" MODIFIED="1496169825498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction &amp; Strings" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$IO_1.coverage" NAME="IO_1 Coverage Results" MODIFIED="1497681722109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.1_Input &amp; Output" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$OOP_3.coverage" NAME="OOP_3 Coverage Results" MODIFIED="1500706779398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$Function.coverage" NAME="Function Coverage Results" MODIFIED="1500387150175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.5_Functions" />
+    <SUITE FILE_PATH="coverage/Py_Sifu$tkinter_1.coverage" NAME="tkinter_1 Coverage Results" MODIFIED="1499699461278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.3_tkinter" />
     <SUITE FILE_PATH="coverage/Py_Sifu$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1500806382444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_9_Overloading" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1496165481328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Py_Sifu$IO_2.coverage" NAME="IO_2 Coverage Results" MODIFIED="1497682797259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.1_Input &amp; Output" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Recursion.coverage" NAME="Recursion Coverage Results" MODIFIED="1500447209431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.6_Recursion" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$OOP_1.coverage" NAME="OOP_1 Coverage Results" MODIFIED="1500657412946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$Question.coverage" NAME="Question Coverage Results" MODIFIED="1496170911387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/If Statement" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Tuple.coverage" NAME="Tuple Coverage Results" MODIFIED="1497265359298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Tuples" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Strings__1_.coverage" NAME="Strings (1) Coverage Results" MODIFIED="1496168669029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction &amp; Strings" />
-    <SUITE FILE_PATH="coverage/Py_Sifu$Dictionsry_4.coverage" NAME="Dictionsry_4 Coverage Results" MODIFIED="1497285101016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Dictionaries" />
     <SUITE FILE_PATH="coverage/Py_Sifu$OOP_4.coverage" NAME="OOP_4 Coverage Results" MODIFIED="1500720275166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_4" />
     <SUITE FILE_PATH="coverage/Py_Sifu$Dictionary__.coverage" NAME="Dictionary_! Coverage Results" MODIFIED="1497271717213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Dictionaries" />
   </component>
@@ -75,28 +74,7 @@
     <favorites_list name="Py_Sifu" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enemy.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/enemy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,9 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10_Tuples/Tuple.py" />
-        <option value="$PROJECT_DIR$/10_Tuples/Tuple_2.py" />
-        <option value="$PROJECT_DIR$/11_Dictionaries/Dictionary_!.py" />
         <option value="$PROJECT_DIR$/11_Dictionaries/Dictionary_2.py" />
         <option value="$PROJECT_DIR$/11_Dictionaries/Dictionary_1.py" />
         <option value="$PROJECT_DIR$/11_Dictionaries/Dictionary_3.py" />
@@ -163,6 +138,9 @@
         <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/enemy.py" />
         <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py" />
         <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/player.py" />
+        <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_11_Polymorphism/main.py" />
+        <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition/OOP_12_1.py" />
+        <option value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition/OOP_12_2.py" />
       </list>
     </option>
   </component>
@@ -223,6 +201,42 @@
               <option name="myItemId" value="4.1_Object Oriented Programming" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_12_Composition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Py_Sifu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Py_Sifu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4.1_Object Oriented Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_11_Polymorphism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Py_Sifu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Py_Sifu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4.1_Object Oriented Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -254,45 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
-    <configuration default="false" name="OOP_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Py_Sifu" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_4/OOP_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_6_Game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Py_Sifu" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_6_Game/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.OOP_12_2">
     <configuration default="false" name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,6 +321,44 @@
       <module name="Py_Sifu" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_10_Super method calling/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OOP_12_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Py_Sifu" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition/OOP_12_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OOP_12_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Py_Sifu" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition/OOP_12_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -500,19 +514,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.OOP_4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.OOP_12_1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.OOP_12_2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main" />
-        <item index="4" class="java.lang.String" itemvalue="Python.OOP_4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.OOP_12_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.OOP_12_1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -542,15 +556,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21086262" sideWeight="0.49577168" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14643237" sideWeight="0.49577168" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.49786553" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.50213444" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63684773" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="80" y="436" width="1666" height="306" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6363152" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="80" y="436" width="1666" height="306" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1796875" sideWeight="0.50422835" order="2" side_tool="true" content_ui="tabs" />
@@ -582,35 +596,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.1_Input &amp; Output/IO_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1131">
-          <caret line="39" column="79" lean-forward="false" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Input &amp; Output/cities.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-598799453/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="5024" column="47" lean-forward="false" selection-start-line="5024" selection-start-column="43" selection-end-line="5024" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Input &amp; Output/sample2.txt" />
-    <entry file="file://$PROJECT_DIR$/3.1_Input &amp; Output/IO_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.1_Input &amp; Output/IO_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -957,6 +942,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_11_Polymorphism/enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_11_Polymorphism/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_11_Polymorphism/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition/OOP_12_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.1_Object Oriented Programming/OOP_12_Composition/OOP_12_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding />
         </state>
       </provider>
